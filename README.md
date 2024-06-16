@@ -1,4 +1,3 @@
-# 3D-Plasma-Simulation
 # 3D Plasma Simulation
 
 This repository contains the code and documentation for the 3D Plasma Simulation project.
